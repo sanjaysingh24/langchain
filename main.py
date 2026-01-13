@@ -5,6 +5,7 @@ b.append(5)
 #print(a)  #1 2 3 4 5 because b is a refrece to a same memory share
 
 #immutability
+#because in primitive data types its just create a new refrence when  we try to replace the value
 a = "hello"
 b  = a
 b +='world'
