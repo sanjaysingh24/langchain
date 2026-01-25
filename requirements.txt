@@ -3,5 +3,7 @@ langgraph
 langchain_community
 langchain-openai
 langchain-groq
+langchain-xai
 python-dotenv
 langchain-google-genai
+ipykernel   
