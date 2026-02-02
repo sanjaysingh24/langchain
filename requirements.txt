@@ -11,3 +11,4 @@ langchain-tavily
 pydantic
 typing_extensions
 dataclasses
+langchain_core
