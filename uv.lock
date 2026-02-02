@@ -105,7 +105,9 @@ dependencies = [
     { name = "langchain-tavily" },
     { name = "langchain-xai" },
     { name = "langgraph" },
+    { name = "pydantic" },
     { name = "python-dotenv" },
+    { name = "typing-extensions" },
 ]
 
 [package.metadata]
@@ -119,7 +121,9 @@ requires-dist = [
     { name = "langchain-tavily", specifier = ">=0.2.17" },
     { name = "langchain-xai", specifier = ">=1.2.1" },
     { name = "langgraph", specifier = ">=1.0.5" },
+    { name = "pydantic", specifier = ">=2.12.5" },
     { name = "python-dotenv", specifier = ">=1.2.1" },
+    { name = "typing-extensions", specifier = ">=4.15.0" },
 ]
 
 [[package]]
