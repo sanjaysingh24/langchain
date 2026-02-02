@@ -10,3 +10,4 @@ ipykernel
 langchain-tavily
 pydantic
 typing_extensions
+dataclasses
