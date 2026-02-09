@@ -12,3 +12,5 @@ pydantic
 typing_extensions
 dataclasses
 langchain_core
+langchain_huggingface
+langchain-huggingface
